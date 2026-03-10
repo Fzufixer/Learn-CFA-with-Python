@@ -30,7 +30,6 @@ Visualizing Learning: Use charts to illustrate changes in economic/financial mod
 Practical Application: The code can be directly used for assignments, research projects, data analysis, and small projects.
 Continuous Accumulation: Build your own financial economics codebase.
 
-加入真实金融数据回测
-制作可视化交互式工具
+
 
 
